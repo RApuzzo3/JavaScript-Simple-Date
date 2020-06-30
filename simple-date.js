@@ -1,11 +1,8 @@
 /**
- * @Package: popSurvey
+ * @Package: Simple-Date
  * @Author: Ricky Apuzzo III
  * @Version: 0.1
  * @BuildDate: 04/15/2012
- * @Website: digitalatmospheres.com
- * @Email: rapuzzo@digitalatmospheres.com
- * @License: Free for public use!
  **/
 
 //Get the current year;
